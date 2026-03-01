@@ -50,6 +50,10 @@ rechts
 }
 
 @media screen and (max-width: 768px) {
+head
+    {
+        color: purple;
+    }
 content
 {
 
