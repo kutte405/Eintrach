@@ -4,6 +4,27 @@ body
 
 }
 
+
+
+
+@media screen and (max-width: 1920px) {
+content
+{
+    
+}
+
+links
+{
+
+}
+rechts
+{
+
+}
+
+}
+
+@media screen and (max-width: 1080px) {
 content
 {
 
@@ -15,5 +36,24 @@ links
 }
 rechts
 {
+
+}
+
+}
+
+@media screen and (max-width: 768px) {
+content
+{
+
+}
+
+links
+{
+
+}
+rechts
+{
+
+}
 
 }
