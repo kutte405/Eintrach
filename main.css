@@ -8,26 +8,34 @@ body
 
 
 @media screen and (max-width: 1920px) {
+    head
+    {
+        color: blue;
+    }
+    content
+    {
+    
+    }
+
+    links
+    {
+
+    }
+    rechts
+    {
+
+    }
+
+    }
+
+@media screen and (max-width: 1080px) {
+head
+    {
+        color: red;
+    }
 content
 {
     
-}
-
-links
-{
-
-}
-rechts
-{
-
-}
-
-}
-
-@media screen and (max-width: 1080px) {
-content
-{
-
 }
 
 links
