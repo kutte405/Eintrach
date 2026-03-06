@@ -30,22 +30,22 @@ body
 
 @media screen and (max-width: 1080px) {
     
-    head
+    .head
     {
         background-color: red;
     }
-    content
+    .content
     {
         with: 100px;
         hight: 50px;
         color: green;
     }
 
-    links
+    .links
     {
 
     }
-    rechts
+    .rechts
     {
 
     }
@@ -54,22 +54,22 @@ body
 
 @media screen and (max-width: 768px) {
 
-    head
+    .head
     {
         background-color: ;
     }
-    content
+    .content
     {
         with: 100px;
         hight: 50px;
         color: blue;
     }
     
-    links
+    .links
     {
 
     }
-    rechts
+    .rechts
     {
 
     }
