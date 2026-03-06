@@ -7,7 +7,7 @@ body
 .flex{
     display: flex;
     
-    flex: 1;
+    
 }
 @media screen and (max-width: 1920px) {
     
@@ -43,8 +43,8 @@ body
     }
     .content
     {
-        with: 100px;
-        hight: 50px;
+        width: 100px;
+        height: 50px;
         color: green;
     }
 
@@ -69,8 +69,8 @@ body
     }
     .content
     {
-        with: 100px;
-        hight: 50px;
+        width: 100px;
+        height: 50px;
         color: blue;
     }
     
