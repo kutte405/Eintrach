@@ -1,6 +1,10 @@
 body
 {
     background-color: white;
+    
+}
+
+.flex{
     display: flex;
     flex-direction: row;
 }
