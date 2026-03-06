@@ -4,22 +4,22 @@ body
 }
 @media screen and (max-width: 1920px) {
     
-    head
+    #head
     {
 
     }
-    content
+    #content
     {
         with: 100px;
         hight: 50px;
         color: red;
     }
 
-    links
+    #links
     {
 
     }
-    rechts
+    #rechts
     {
 
     }
