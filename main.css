@@ -23,11 +23,13 @@ body
 
     .links
     {
-
+        width: 100px;
+        height: 50px;
     }
     .rechts
     {
-
+        width: 100px;
+        height: 50px;
     }
 
     }
@@ -47,11 +49,13 @@ body
 
     .links
     {
-
+        width: 100px;
+        height: 50px;
     }
     .rechts
     {
-
+        width: 100px;
+        height: 50px;
     }
 
 }
@@ -71,11 +75,13 @@ body
     
     .links
     {
-
+        width: 100px;
+        height: 50px;
     }
     .rechts
     {
-
+        width: 100px;
+        height: 50px;
     }
 
 }
