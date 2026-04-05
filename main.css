@@ -1,14 +1,12 @@
 body
 {
     background-color: rgb(129, 17, 194);
-    display: flex;
-    flex-direction: row;
+   display: flex;
+   flex-direction: column;
+
 }
 
 
-
-
-@media screen and (max-width: 1920px) {
     head
     {
         color: blue;
@@ -27,46 +25,5 @@ body
 
     }
 
-    }
 
-@media screen and (max-width: 1080px) {
-head
-    {
-        color: red;
-    }
-content
-{
-    
-}
 
-links
-{
-
-}
-rechts
-{
-
-}
-
-}
-
-@media screen and (max-width: 768px) {
-head
-    {
-        color: purple;
-    }
-content
-{
-
-}
-
-links
-{
-
-}
-rechts
-{
-
-}
-
-}
