@@ -5,7 +5,7 @@
       "type": "msedge", 
       "request": "launch",   
       "name": "Launch Edge mit Mainsite.html",
-      "file"  : "C:\\Visual Studio\\Eintrach\\Mainsite.html",
+      "file"  : "C:\\Visual Studio\\Eintrach\\index.html",
     }
   ]
 }
